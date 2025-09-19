@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/6d517143-b42b-495c-acbe-0189b953cf21
 # KeeperX - Robotic Goalkeeper
 
 ![KeeperX Logo](docs/diagrams/keeperx.png)
