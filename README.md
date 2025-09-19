@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6d517143-b42b-495c-acbe-0189b953cf21
 # KeeperX - Robotic Goalkeeper
 
 ![KeeperX Logo](docs/diagrams/keeperx.png)
@@ -25,7 +27,11 @@ Key Achievements (from project report):
 Tech Stack: Python (OpenCV, NumPy), C++ (Arduino), ROS2, Kalman Filtering, Computer Vision.
 
 ## Demo
-![KeeperX Demo](docs/demo.mov)
+
+
+https://github.com/user-attachments/assets/7c9b0c87-370d-41d2-965c-f6bffbde4077
+
+
 
 
 ## Code Snippets
